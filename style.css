@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+nav {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+button {
+    height: 20px;
+}
+
+.black {
+    background-color: #000;
+}
+
+.red {
+    background-color: #f00;
+}
+
+.green {
+    background-color: #0f0;
+}
+
+.blue {
+    background-color: #00f;
+}
+
+.yellow {
+    background-color: yellow;
+}
